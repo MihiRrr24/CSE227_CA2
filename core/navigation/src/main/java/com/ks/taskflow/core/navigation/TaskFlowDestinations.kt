@@ -1,8 +1,6 @@
 package com.ks.taskflow.core.navigation
 
-/**
- * Contains the navigation destinations for the app.
- */
+
 object TaskFlowDestinations {
     const val TASKS_ROUTE = "tasks"
     const val TASK_DETAIL_ROUTE = "task_detail"
